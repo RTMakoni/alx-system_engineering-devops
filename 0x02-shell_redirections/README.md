@@ -1,1 +1,1 @@
-nomore js script
+Directories count script
