@@ -1,1 +1,1 @@
-what next script
+hide this word
