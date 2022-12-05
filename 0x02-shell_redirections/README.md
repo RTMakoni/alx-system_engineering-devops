@@ -1,1 +1,1 @@
-cwd state script
+duplicate last line script
