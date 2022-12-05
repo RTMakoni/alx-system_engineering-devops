@@ -1,1 +1,1 @@
-file script
+cwd state script
