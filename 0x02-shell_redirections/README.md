@@ -1,1 +1,1 @@
-duplicate last line script
+nomore js script
