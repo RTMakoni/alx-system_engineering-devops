@@ -1,1 +1,1 @@
-true knowhow
+divide and rule
